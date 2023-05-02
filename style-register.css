@@ -35,16 +35,18 @@ main {
     width: 80vw;
     height: 80vh;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
 }
 
 .register-left {
-    width: 40%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: transparent;
-    padding: 1rem;
 }
 
 .register-left .register-image{
@@ -52,7 +54,7 @@ main {
 }
 
 .register-right {
-    width: 60%;
+    width: 70%;
     height: fit-content;
     background-color: var(--color5);
     padding: 3rem;
@@ -102,9 +104,9 @@ button:hover {
 form {
     margin-top: 2rem;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
-    gap: 1.5rem;
+    gap: 2rem;
 }
 
 label {
@@ -167,6 +169,7 @@ select {
     }
 
     form {
+        grid-template-columns: 1fr 1fr;
         gap: 0.3rem;
     }
 }

@@ -17,14 +17,10 @@
 - Alexandre Lohn Sell
 - Josiane Stadler Mallmann
 
-<br>
-
 ## 📅 Datas
 
 - Início (20/10/2022)
 - Previsão de Término (01/12/2024)
-
-<br>
 
 ## 🚀 Tecnologias
 
@@ -32,8 +28,6 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 - HTML e CSS
 - Git e Github
-
-<br>
 
 ## 💻 Projeto
 
