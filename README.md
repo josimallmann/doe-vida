@@ -2,7 +2,9 @@
 
 <br>
 
-![Logo Doe Vida](assets/logo_doevida_fundobranco.png)
+<div align="center">
+    <img src="assets/logo_doevida_fundobranco.png" width="380px"/>
+</div>
 
 <br>
 
@@ -14,6 +16,13 @@
 
 - Alexandre Lohn Sell
 - Josiane Stadler Mallmann
+
+<br>
+
+## 📅 Datas
+
+- Início (20/10/2022)
+- Previsão de Término (01/12/2024)
 
 <br>
 
