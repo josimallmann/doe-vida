@@ -26,6 +26,10 @@ a {
     text-decoration: none;
 }
 
+::selection {
+    background-color: var(--color4);
+}
+
 #app {
     display: grid;
     grid-template-columns: max-content 1fr;
@@ -162,7 +166,7 @@ button:hover {
     flex-direction: column;
     text-align: center;
     gap: 0.8rem;
-    width: 30rem;
+    width: 27rem;
     padding: 1.2em;
     background-color: #FFF;
     box-shadow: 0rem 0.4rem 1.6rem var(--color4);
@@ -203,6 +207,7 @@ button:hover {
 }
 
 .ask {
+    margin-bottom: 3rem;
     font-size: 2rem;
     opacity: 0.90;
 }

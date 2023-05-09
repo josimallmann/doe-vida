@@ -26,6 +26,10 @@ a {
     text-decoration: none;
 }
 
+::selection {
+    background-color: var(--color4);
+}
+
 section {
     background-color: var(--color1);
     display: flex;

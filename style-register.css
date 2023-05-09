@@ -31,6 +31,10 @@ a {
     color: var(--color5);
 }
 
+::selection {
+    background-color: var(--color4);
+}
+
 main {
     width: 80vw;
     height: 80vh;
