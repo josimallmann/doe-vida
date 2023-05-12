@@ -14,6 +14,7 @@
     --color6: #756966;
     --color7: #403937;
     --color8: #7e57c2;
+    --color9: #dbccfd;
 }
 
 body {
@@ -180,8 +181,27 @@ button:hover {
     border-radius: 0.8rem;
 }
 
+.bloodtype-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bloodtype-date ion-icon {
+    font-size: 1.9rem;
+    color: #ff2c2c;
+}
+
+.bloodtype-date > div {
+    display: flex;
+    align-items: center;
+    padding: 0.3rem 0.7rem;
+    background-color: var(--color9);
+    border-radius: 0.7rem;
+    font-weight: bold;
+}
+
 .card .date {
-    text-align: end;
     color: var(--color7);
 }
 
