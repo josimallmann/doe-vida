@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center"> Este é o Projeto Integrador em andamente do Tecnólogo Análise e Desenvolvimento de Sistemas do Centro Universitário UniOpet. O Doe Vida tem como objetivo ser a ponte entre o doador de sangue e o paciente que está precisando de sangue, buscando facilitar esse processo que é muito importante. Dessa forma é um projeto que tem um âmbito voltando para a sociedade como um todo.</p>
+<p align="center"> Este é o Projeto Integrador do Tecnólogo Análise e Desenvolvimento de Sistemas do Centro Universitário UniOpet. O Doe Vida tem como objetivo ser a ponte entre o doador de sangue e o paciente que está precisando de sangue, buscando facilitar esse processo que é muito importante. Dessa forma é um projeto que tem um âmbito voltando para a sociedade como um todo.</p>
 
 <br>
 
@@ -20,7 +20,7 @@
 ## 📅 Datas
 
 - Início (20/10/2022)
-- Previsão de Término (01/12/2024)
+- Término (01/12/2024)
 
 ## 🚀 Tecnologias
 
